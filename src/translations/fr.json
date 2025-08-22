@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "projects": "Projets",
+    "experience": "Expérience",
+    "skills": "Compétences",
+    "about": "À propos",
+    "contact": "Contact",
+    "downloadCV": "Télécharger le CV"
+  },
+  "hero": {
+    "badge": "Ouverte à la mobilité · Télétravail",
+    "title": "Hadjer Mohamedi",
+    "subtitle": "Développeuse Full‑Stack — Banque · Météorologie · ERP",
+    "desc": "Je conçois des applications web sécurisées et évolutives avec React, .NET, Django et Java/JEE. J’aime transformer des données complexes en outils fiables et clairs.",
+    "seeProjects": "Voir les Projets",
+    "emailMe": "M’écrire"
+  },
+  "projects": {
+    "title": "Projet à la Une",
+    "bnaTitle": "BNA – Gestion des Engagements",
+    "bnaDesc": "Plateforme bancaire pour gérer et suivre les engagements avec intégration LDAP, rôles et profils sécurisés."
+  },
+  "experience": {
+    "title": "Expérience"
+  },
+  "skills": {
+    "title": "Compétences"
+  },
+  "about": {
+    "title": "À propos",
+    "p1": "Développeuse Full‑Stack avec plus de 6 ans d’expérience, livrant des solutions sécurisées et centrées utilisateur (banque, météo, ERP).",
+    "p2": "Master en Génie Logiciel · Licence en Informatique."
+  },
+  "contact": {
+    "title": "Construisons quelque chose de génial",
+    "desc": "Envoyez-moi un message ou connectons-nous sur LinkedIn. Ouverte aux postes CDI et missions.",
+    "name": "Votre nom",
+    "email": "Votre e‑mail",
+    "message": "Votre message",
+    "send": "Envoyer",
+    "success": "Message envoyé ! Je vous répondrai rapidement.",
+    "error": "Impossible d’envoyer le message. Réessayez."
+  },
+  "footer": {
+    "copyright": "Créé avec React, Vite & Tailwind. Hébergé sur GitHub Pages."
+  },
+  "langSwitch": {
+    "en": "EN",
+    "fr": "FR",
+    "label": "Langue"
+  }
+}
