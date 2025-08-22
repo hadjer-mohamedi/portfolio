@@ -17,11 +17,12 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^5.0.1",
+    "@vitejs/plugin-react": "4.2.1",
     "autoprefixer": "^10.4.20",
-    "gh-pages": "^6.1.1",
-    "postcss": "^8.4.44",
+    "gh-pages": "^5.0.0",
+    "postcss": "^8.4.32",
     "tailwindcss": "^3.4.10",
-    "vite": "^5.3.4"
-  }
+    "vite": "4.5.5"
+  },
+  "homepage": "https://github.com/hadjer-mohamedi/portfolio"
 }
